@@ -1,1 +1,4 @@
-# R-Projects
+R was the first language that I learned in my data science career, and I learned the most of the basics of data cleaning, EDA, and machine learning in this language, which I began to transfer over to Python and SQL as I grew more confident in my skills.
+My first ever project, UFO data analysis, includes lots of GGPlot 2 data visualization to show the occurence of UFO sightings nationally and globally. This is a very fun project to look into if you are interested in this topic!
+The second project in this repository, Swifty Analytics, is a project attempting to improve sports betting strategies for the NFL using data on stadiums, NFL games ranging from the 1960s to 2024, and historical scores and spreads. Wow, this was a fun one- and don't we all want to improve our sports betting strategies and lose a little less money? This project includes TONS of analysis including decision trees, SVMs, K-Means Clustering, Association Rule Mining, Naive Bayes, and more! 
+Finally, I have included many other applied machine learning projects including image analysis, more K-Means, support vector machines... Feel free to take a look!
